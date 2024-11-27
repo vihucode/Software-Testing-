@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/vihucode/Software-Testing-/badge.svg?branch=master)](https://coveralls.io/github/vihucode/Software-Testing-?branch=master)
+
 # Student template
 
 ## Purpose of this repository
